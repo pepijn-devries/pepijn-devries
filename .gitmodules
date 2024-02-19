@@ -1,20 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/pepijn-devries/pepijn-devries.r-universe.dev
 	branch = HEAD
-[submodule "adfExplorer"]
-	path = adfExplorer
-	url = https://github.com/pepijn-devries/adfexplorer
-	shallow = true
-	registered = true
+[submodule "AmigaFFH"]
+	path = AmigaFFH
+	url = https://github.com/pepijn-devries/AmigaFFH
+	branch = master
 [submodule "CopernicusMarine"]
 	path = CopernicusMarine
-	url = https://github.com/pepijn-devries/copernicusmarine
-	shallow = true
-	registered = true
+	url = https://github.com/pepijn-devries/CopernicusMarine
+	branch = master
 [submodule "ECOTOXr"]
 	path = ECOTOXr
-	url = https://github.com/pepijn-devries/ecotoxr
-	shallow = true
-	registered = true
+	url = https://github.com/pepijn-devries/ECOTOXr
+	branch = main
+[submodule "ProTrackR"]
+	path = ProTrackR
+	url = https://github.com/pepijn-devries/ProTrackR
+	branch = master
+[submodule "adfExplorer"]
+	path = adfExplorer
+	url = https://github.com/pepijn-devries/adfExplorer
+	branch = master
+[submodule "ggfields"]
+	path = ggfields
+	url = https://github.com/pepijn-devries/ggfields
+	branch = master
