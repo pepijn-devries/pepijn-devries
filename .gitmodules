@@ -22,7 +22,19 @@
 	path = adfExplorer
 	url = https://github.com/pepijn-devries/adfExplorer
 	branch = master
+[submodule "adfExplorer2"]
+	path = adfExplorer2
+	url = https://github.com/pepijn-devries/adfExplorer2
+	branch = master
+[submodule "csquares"]
+	path = csquares
+	url = https://github.com/pepijn-devries/csquares
+	branch = main
 [submodule "ggfields"]
 	path = ggfields
 	url = https://github.com/pepijn-devries/ggfields
+	branch = master
+[submodule "ggsankeyfier"]
+	path = ggsankeyfier
+	url = https://github.com/pepijn-devries/ggsankeyfier
 	branch = master
